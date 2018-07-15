@@ -1,2 +1,5 @@
 # mysql-homework
-![alt text](C:\Users\canyo\dev\uofu\homework\mysql-homework\Images\Screenshot1.PNG)
+
+![alt text](https://github.com/sblapray1014/mysql-homework/blob/master/Images/Screenshot1.PNG)
+
+
