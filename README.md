@@ -10,3 +10,6 @@ If enough products are availabe as you can see in the next screen shot the user 
 ![alt text](https://github.com/sblapray1014/mysql-homework/blob/master/Images/Screenshot2.PNG)
 
 
+Finally, if the user selects a quantity higher than the total units in stock they will receive a prompt letting them know there is an insufficient quantity to purchase for the selected item. 
+
+![alt text](https://github.com/sblapray1014/mysql-homework/blob/master/Images/Screenshot3.PNG)
